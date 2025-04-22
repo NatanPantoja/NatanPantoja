@@ -31,15 +31,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanPantoja&layout=compact&langs_count=6&theme=gotham&hide_border=false" height="150" />
 </div>
 
----
-
-<h2 align="left">📫 Onde me encontrar</h2>
-
-<div align="left">
-  <a href="[https://www.linkedin.com/in/seu-usuario-linkedin/](https://www.linkedin.com/in/natanael-galv%C3%A3o-pantoja-cruz-a998862b2/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</div>
